@@ -4,5 +4,9 @@ Forecasting operating income by other companies' features. Main info:
 * This task was made using LIGHTAUTOML library, suited for data forecasting
 * All needed data and graphs are included in the code.
 
+Main file:
+
+# Oil_analyze_with_automl.ipynb
+
 Post Scriptum (future work): time feature could "leak" because this model made train-test split not considering time factor. It may cause improper training.
 
